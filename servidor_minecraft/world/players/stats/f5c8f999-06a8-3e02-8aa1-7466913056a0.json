@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:pillager": 1,
+      "minecraft:zombie": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1949,
+      "minecraft:walk_one_cm": 1911,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 1907,
+      "minecraft:damage_taken": 1250,
+      "minecraft:play_time": 14592,
+      "minecraft:jump": 17,
+      "minecraft:time_since_death": 1920,
+      "minecraft:fall_one_cm": 810,
+      "minecraft:total_world_time": 14592,
+      "minecraft:fly_one_cm": 57495,
+      "minecraft:walk_on_water_one_cm": 1714,
+      "minecraft:deaths": 5
+    }
+  },
+  "DataVersion": 4790
+}
